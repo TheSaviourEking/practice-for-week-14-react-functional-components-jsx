@@ -1,2 +1,8 @@
-.span1: { background-color: "green", color: "white" };
-.span2: { background-color: "white", color: "#008000" };
+.span1 {
+  background-color: "green";
+  color: "white";
+}
+.span2 {
+  background-color: "white";
+  color: "#008000";
+}
